@@ -120,4 +120,5 @@ nodeSelector: {}
 
 tolerations: []
 
-affinity: {}
+
+extraEnv: {}
